@@ -27,4 +27,5 @@ while chances<5:
     chances+=1
 
 if chances==5 and guess!= nummm:
-    print("YOU LOSE")
+    print("YOU LOSE!!! The number is", nummm)
+
